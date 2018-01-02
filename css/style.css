@@ -1,0 +1,42 @@
+
+body{
+
+    background: #343a40 url("../img/favicon.png") no-repeat top;
+    margin: 0;
+    padding: 0;
+
+}
+
+.top{
+    height: 56px;
+    width: 100%;
+}
+
+#list-left{
+    margin-top: 50px;
+}
+
+.ul-top{
+    list-style: none;
+    margin-left: -20px !important;
+
+}
+.ul-top .li-top{
+    display: inline-block;
+    font-size: 30px;
+    font-family: Georgia,sans-serif;
+
+}
+
+.ul-top .li-top:hover{
+    display: inline-block;
+    font-size: 30px;
+    font-family: "Cinzel Decorative Bold",sans-serif;
+    border-bottom: 2px solid #4b59ff;
+}
+
+.ul-top .li-top a{
+    text-decoration: none;
+
+}
+
